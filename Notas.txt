@@ -1,2 +1,0 @@
-Servidor actualizado para PHP5+ (Servidor original: C:/m4rk/_proyectos/chatServer/)
-ini_set('memory_limit','16M');
