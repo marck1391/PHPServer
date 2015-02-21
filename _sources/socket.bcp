@@ -1,6 +1,0 @@
-; Bamcompile project file
-mainfile socket.php
-embed socket.php
-output socket.exe
-extension php_sockets.dll
-compress
